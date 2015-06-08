@@ -2,8 +2,9 @@ SOCKit
 ======
 
 String <-> Object Coding for Objective-C. Rhymes with "socket".
+SOCKit的意思是String + Object + Coding + Kit。
 
-With SOCKit and [SOCPattern][] you can easily transform objects into strings and vice versa.
+With SOCKit and [SOCPattern][https://github.com/NimbusKit/sockit/blob/master/src/SOCKit.h] you can easily transform objects into strings and vice versa.
 
 ### Two examples, cuz devs love examples.
 
